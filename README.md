@@ -18,20 +18,20 @@ The management will use it to understand and manipulate the business strategy to
 ## Conclusions
 Here are the significant variables that predict the demand for shared bikes
 
-holiday
-temp
-hum
-windspeed
-Season
-months(January, July, September, November, December)
-Year (2019)
-Sunday
-weathersit( Light Snow, Mist + Cloudy)
+- holiday
+- temp
+- hum
+- windspeed
+- Season
+- months(January, July, September, November, December)
+- Year (2019)
+- Sunday
+- weathersit( Light Snow, Mist + Cloudy)
 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by sushil.engg4march@gmail.com
 
 
 <!-- Optional -->
