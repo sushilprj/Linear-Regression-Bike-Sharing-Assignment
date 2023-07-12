@@ -1,44 +1,33 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing 
+
+Problem Statement:¶
+A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company needs help to sustain itself in the current market scenario. So, it has decided to devise a mindful business plan to accelerate its revenue when the ongoing lockdown ends and the economy restores to a healthy state.
+
+The company is interested in:
+
+Predicting variables that are significant in the sharing bike demand.
+How well do those variables express the bike-sharing demands
+Objective:
+
+Build a model to find the variables significant in the bike sharing demand using the available independent variables.
+The management will use it to understand and manipulate the business strategy to meet the demand levels and customer expectations.
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Here are the significant variables that predict the demand for shared bikes
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+holiday
+temp
+hum
+windspeed
+Season
+months(January, July, September, November, December)
+Year (2019)
+Sunday
+weathersit( Light Snow, Mist + Cloudy)
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
